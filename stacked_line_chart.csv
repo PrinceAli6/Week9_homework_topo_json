@@ -1,0 +1,281 @@
+"","country","year","sex","total"
+"1","Australia",1979,"female",40.9570887997071
+"2","Australia",1979,"male",108.994709249253
+"3","Australia",1980,"female",37.735802420457
+"4","Australia",1980,"male",119.028518254563
+"5","Australia",1981,"female",35.1094371336855
+"6","Australia",1981,"male",121.07248335414
+"7","Australia",1982,"female",38.9928333012968
+"8","Australia",1982,"male",129.998018714497
+"9","Australia",1983,"female",33.8029090625809
+"10","Australia",1983,"male",128.604293187146
+"11","Australia",1984,"female",33.0174904365918
+"12","Australia",1984,"male",120.676956959015
+"13","Australia",1985,"female",36.3069063381341
+"14","Australia",1985,"male",127.12313480556
+"15","Australia",1986,"female",35.3726307492624
+"16","Australia",1986,"male",140.402690469606
+"17","Australia",1987,"female",35.643493398676
+"18","Australia",1987,"male",153.194532865321
+"19","Australia",1988,"female",36.5119413762215
+"20","Australia",1988,"male",142.829201480001
+"21","Australia",1989,"female",32.4914839558318
+"22","Australia",1989,"male",135.612982797495
+"23","Australia",1990,"female",34.0258575203912
+"24","Australia",1990,"male",138.33867155977
+"25","Australia",1991,"female",35.6768550061775
+"26","Australia",1991,"male",144.468576651747
+"27","Australia",1992,"female",35.3607690381083
+"28","Australia",1992,"male",135.279392299369
+"29","Australia",1993,"female",28.19658993845
+"30","Australia",1993,"male",126.756562958563
+"31","Australia",1994,"female",29.0869864283702
+"32","Australia",1994,"male",138.657706103257
+"33","Australia",1995,"female",30.5472387285616
+"34","Australia",1995,"male",124.662739000978
+"35","Australia",1996,"female",29.9630642089373
+"36","Australia",1996,"male",145.360078489932
+"37","Australia",1997,"female",36.513056709311
+"38","Australia",1997,"male",150.413460487509
+"39","Australia",1998,"female",34.2081536705883
+"40","Australia",1998,"male",142.217313076467
+"41","Australia",1999,"female",29.6043908478291
+"42","Australia",1999,"male",137.553146913233
+"43","Australia",2000,"female",31.3372923753914
+"44","Australia",2000,"male",126.474090795364
+"45","Australia",2001,"female",31.5357766903937
+"46","Australia",2001,"male",127.264268368435
+"47","Australia",2002,"female",30.0896583490029
+"48","Australia",2002,"male",114.579107439077
+"49","Australia",2003,"female",26.9791049120239
+"50","Australia",2003,"male",106.858648623562
+"51","Australia",2004,"female",26.4266475040514
+"52","Australia",2004,"male",107.330520406089
+"53","Australia",2005,"female",0
+"54","Australia",2005,"male",0
+"55","Australia",2006,"female",28.6527225526314
+"56","Australia",2006,"male",99.2134606613545
+"57","Australia",2007,"female",28.7364827226711
+"58","Australia",2007,"male",101.513808298974
+"59","Australia",2008,"female",26.2155856918437
+"60","Australia",2008,"male",104.283355772234
+"61","Australia",2009,"female",29.5229431023305
+"62","Australia",2009,"male",100.60145676494
+"63","Australia",2010,"female",29.0655485250888
+"64","Australia",2010,"male",103.580507101216
+"65","Australia",2011,"female",30.6319725450147
+"66","Australia",2011,"male",102.581481572645
+"67","Australia",2012,"female",34.0057915590016
+"68","Australia",2012,"male",105.555365904478
+"69","Australia",2013,"female",33.0825227212141
+"70","Australia",2013,"male",105.690442041331
+"71","Australia",2014,"female",34.8858221942363
+"72","Australia",2014,"male",114.193120130192
+"73","Australia",2015,"female",35.9366382265903
+"74","Australia",2015,"male",118.254982902298
+"75","Finland",1979,"female",0
+"76","Finland",1979,"male",0
+"77","Finland",1980,"female",0
+"78","Finland",1980,"male",0
+"79","Finland",1981,"female",0
+"80","Finland",1981,"male",0
+"81","Finland",1982,"female",0
+"82","Finland",1982,"male",0
+"83","Finland",1983,"female",0
+"84","Finland",1983,"male",0
+"85","Finland",1984,"female",0
+"86","Finland",1984,"male",0
+"87","Finland",1985,"female",0
+"88","Finland",1985,"male",0
+"89","Finland",1986,"female",0
+"90","Finland",1986,"male",0
+"91","Finland",1987,"female",60.8663554899544
+"92","Finland",1987,"male",286.492087093023
+"93","Finland",1988,"female",65.7933246718571
+"94","Finland",1988,"male",288.258428858559
+"95","Finland",1989,"female",63.4936587392509
+"96","Finland",1989,"male",309.861520962674
+"97","Finland",1990,"female",69.9460054373996
+"98","Finland",1990,"male",326.277305263433
+"99","Finland",1991,"female",65.3260826042511
+"100","Finland",1991,"male",312.256375350994
+"101","Finland",1992,"female",62.6569073704973
+"102","Finland",1992,"male",287.217157517744
+"103","Finland",1993,"female",57.6620850582722
+"104","Finland",1993,"male",275.333845178489
+"105","Finland",1994,"female",62.2399933794498
+"106","Finland",1994,"male",268.009715414837
+"107","Finland",1995,"female",64.470300817041
+"108","Finland",1995,"male",260.485122301064
+"109","Finland",1996,"female",58.1029523700149
+"110","Finland",1996,"male",231.53653504518
+"111","Finland",1997,"female",58.713828162309
+"112","Finland",1997,"male",251.648318402983
+"113","Finland",1998,"female",56.7047357893536
+"114","Finland",1998,"male",244.730692827945
+"115","Finland",1999,"female",50.1422524067014
+"116","Finland",1999,"male",232.980306846114
+"117","Finland",2000,"female",60.1973276355677
+"118","Finland",2000,"male",205.455331097003
+"119","Finland",2001,"female",54.0892051908556
+"120","Finland",2001,"male",213.075934391356
+"121","Finland",2002,"female",53.8565429209067
+"122","Finland",2002,"male",201.66756983208
+"123","Finland",2003,"female",53.3489118702246
+"124","Finland",2003,"male",190.09965035414
+"125","Finland",2004,"female",52.2567181128191
+"126","Finland",2004,"male",191.69286599057
+"127","Finland",2005,"female",55.9980908026302
+"128","Finland",2005,"male",174.536318099428
+"129","Finland",2006,"female",52.773432972386
+"130","Finland",2006,"male",181.0343274956
+"131","Finland",2007,"female",49.0666574444927
+"132","Finland",2007,"male",174.000142727015
+"133","Finland",2008,"female",46.7665924002732
+"134","Finland",2008,"male",173.5364395248
+"135","Finland",2009,"female",55.4794990033098
+"136","Finland",2009,"male",173.005739518508
+"137","Finland",2010,"female",50.0924273353797
+"138","Finland",2010,"male",165.098603400481
+"139","Finland",2011,"female",39.8024339504747
+"140","Finland",2011,"male",163.815157535013
+"141","Finland",2012,"female",42.5399233316853
+"142","Finland",2012,"male",144.467156773231
+"143","Finland",2013,"female",45.5129021798567
+"144","Finland",2013,"male",151.319613315551
+"145","Finland",2014,"female",39.122533037641
+"146","Finland",2014,"male",138.034353452953
+"147","Finland",2015,"female",35.5548601421141
+"148","Finland",2015,"male",125.625981244703
+"149","Lithuania",1981,"female",70.6683218963338
+"150","Lithuania",1981,"male",384.168617573642
+"151","Lithuania",1982,"female",78.9127551004053
+"152","Lithuania",1982,"male",397.866842347176
+"153","Lithuania",1983,"female",0
+"154","Lithuania",1983,"male",0
+"155","Lithuania",1985,"female",85.7773527581171
+"156","Lithuania",1985,"male",371.987964889308
+"157","Lithuania",1986,"female",65.5474528713481
+"158","Lithuania",1986,"male",290.912301469468
+"159","Lithuania",1987,"female",81.3239608937258
+"160","Lithuania",1987,"male",324.634007096061
+"161","Lithuania",1988,"female",83.808074087482
+"162","Lithuania",1988,"male",270.358133326516
+"163","Lithuania",1989,"female",66.567459766434
+"164","Lithuania",1989,"male",294.666452468157
+"165","Lithuania",1990,"female",67.006872485126
+"166","Lithuania",1990,"male",280.555009190072
+"167","Lithuania",1991,"female",71.9293474517417
+"168","Lithuania",1991,"male",327.894757655275
+"169","Lithuania",1992,"female",90.1511912111284
+"170","Lithuania",1992,"male",368.978512180696
+"171","Lithuania",1993,"female",83.6759449473661
+"172","Lithuania",1993,"male",470.378350100666
+"173","Lithuania",1994,"female",86.0996509893263
+"174","Lithuania",1994,"male",525.183113248851
+"175","Lithuania",1995,"female",102.41747099405
+"176","Lithuania",1995,"male",536.883471213763
+"177","Lithuania",1996,"female",108.812244762219
+"178","Lithuania",1996,"male",486.801033085114
+"179","Lithuania",1997,"female",90.7920482756405
+"180","Lithuania",1997,"male",474.65616514156
+"181","Lithuania",1998,"female",91.7697725066634
+"182","Lithuania",1998,"male",474.582490605058
+"183","Lithuania",1999,"female",89.5579301132556
+"184","Lithuania",1999,"male",471.972658545781
+"185","Lithuania",2000,"female",100.807856154217
+"186","Lithuania",2000,"male",471.001189870592
+"187","Lithuania",2001,"female",90.8544886799422
+"188","Lithuania",2001,"male",478.137421662142
+"189","Lithuania",2002,"female",82.9202609717363
+"190","Lithuania",2002,"male",472.691831248112
+"191","Lithuania",2003,"female",80.9637144435762
+"192","Lithuania",2003,"male",449.552509891872
+"193","Lithuania",2004,"female",84.139737624428
+"194","Lithuania",2004,"male",419.228295104388
+"195","Lithuania",2005,"female",74.4315527140988
+"196","Lithuania",2005,"male",411.346001135662
+"197","Lithuania",2006,"female",66.1266205867711
+"198","Lithuania",2006,"male",334.427341006344
+"199","Lithuania",2007,"female",63.0749948476788
+"200","Lithuania",2007,"male",343.721014143142
+"201","Lithuania",2008,"female",64.8452121453569
+"202","Lithuania",2008,"male",365.207551432472
+"203","Lithuania",2009,"female",64.8405322479648
+"204","Lithuania",2009,"male",372.227629188124
+"205","Lithuania",2010,"female",64.3930659868064
+"206","Lithuania",2010,"male",330.842083761471
+"207","Lithuania",2011,"female",68.2322919403801
+"208","Lithuania",2011,"male",339.449181677257
+"209","Lithuania",2012,"female",57.8765366883181
+"210","Lithuania",2012,"male",316.247952742384
+"211","Lithuania",2013,"female",72.2326660896884
+"212","Lithuania",2013,"male",372.322871823015
+"213","Lithuania",2014,"female",60.6842218572114
+"214","Lithuania",2014,"male",340.579107378718
+"215","Lithuania",2015,"female",62.1611922507317
+"216","Lithuania",2015,"male",323.30502085381
+"217","Lithuania",2016,"female",44.5776773665179
+"218","Lithuania",2016,"male",320.013963725644
+"219","Republic of Korea",1985,"female",38.2830708609348
+"220","Republic of Korea",1985,"male",108.366464411424
+"221","Republic of Korea",1986,"female",32.3353657460674
+"222","Republic of Korea",1986,"male",110.959524112289
+"223","Republic of Korea",1987,"female",32.3320292778739
+"224","Republic of Korea",1987,"male",95.9154553227429
+"225","Republic of Korea",1988,"female",33.0002880395515
+"226","Republic of Korea",1988,"male",81.5928771152188
+"227","Republic of Korea",1989,"female",33.2623966051616
+"228","Republic of Korea",1989,"male",88.12718540717
+"229","Republic of Korea",1990,"female",35.37452027747
+"230","Republic of Korea",1990,"male",85.1596910957926
+"231","Republic of Korea",1991,"female",34.4885916817537
+"232","Republic of Korea",1991,"male",81.6924800458522
+"233","Republic of Korea",1992,"female",37.8648384687545
+"234","Republic of Korea",1992,"male",89.5210721634446
+"235","Republic of Korea",1993,"female",47.5797165702795
+"236","Republic of Korea",1993,"male",111.895263378792
+"237","Republic of Korea",1994,"female",49.5524895976706
+"238","Republic of Korea",1994,"male",115.851845768075
+"239","Republic of Korea",1995,"female",52.8237311516641
+"240","Republic of Korea",1995,"male",126.469106725446
+"241","Republic of Korea",1996,"female",63.5377272962526
+"242","Republic of Korea",1996,"male",153.453165900342
+"243","Republic of Korea",1997,"female",65.9901659917932
+"244","Republic of Korea",1997,"male",160.826067198705
+"245","Republic of Korea",1998,"female",82.7507694451317
+"246","Republic of Korea",1998,"male",219.573741000648
+"247","Republic of Korea",1999,"female",72.750131021603
+"248","Republic of Korea",1999,"male",184.789590351487
+"249","Republic of Korea",2000,"female",71.180145643044
+"250","Republic of Korea",2000,"male",177.437353941569
+"251","Republic of Korea",2001,"female",79.0838573312242
+"252","Republic of Korea",2001,"male",194.456201337343
+"253","Republic of Korea",2002,"female",108.941659528296
+"254","Republic of Korea",2002,"male",252.106942609105
+"255","Republic of Korea",2003,"female",131.275841079249
+"256","Republic of Korea",2003,"male",322.843381158204
+"257","Republic of Korea",2004,"female",140.233928283239
+"258","Republic of Korea",2004,"male",329.463473334805
+"259","Republic of Korea",2005,"female",145.350641239163
+"260","Republic of Korea",2005,"male",333.691702260551
+"261","Republic of Korea",2006,"female",128.002231115986
+"262","Republic of Korea",2006,"male",292.463292113031
+"263","Republic of Korea",2007,"female",149.595074482132
+"264","Republic of Korea",2007,"male",316.94226767504
+"265","Republic of Korea",2008,"female",147.043093050627
+"266","Republic of Korea",2008,"male",305.237859830958
+"267","Republic of Korea",2009,"female",170.892744404644
+"268","Republic of Korea",2009,"male",348.630464981925
+"269","Republic of Korea",2010,"female",158.503101851983
+"270","Republic of Korea",2010,"male",359.679612832806
+"271","Republic of Korea",2011,"female",147.826726521756
+"272","Republic of Korea",2011,"male",367.209228891743
+"273","Republic of Korea",2012,"female",132.324020506925
+"274","Republic of Korea",2012,"male",310.935100866536
+"275","Republic of Korea",2013,"female",121.134426263231
+"276","Republic of Korea",2013,"male",307.42962344001
+"277","Republic of Korea",2014,"female",107.904321979817
+"278","Republic of Korea",2014,"male",277.422491364951
+"279","Republic of Korea",2015,"female",103.93975504564
+"280","Republic of Korea",2015,"male",285.195514142521
